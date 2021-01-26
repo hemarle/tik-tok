@@ -1,6 +1,5 @@
 import "./App.css";
 import Video from "./Video";
-import wild from "./video/2021-01-11 17-01-06.mkv";
 import db from "./firebase.js";
 import { useEffect, useState } from "react";
 
